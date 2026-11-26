@@ -1,0 +1,22 @@
+#,Category,Part,Qty,Unit Price (USD),Line Total (USD),Link
+1,Main,Seeed XIAO nRF52840 (not Sense),1,10.5,10.5,https://www.desertcart.ae/products/416219032-xiao-nrf52840
+2,Main,Kailh Choc v1 low-profile switch,9,0.6,5.4,https://keeb.io/products/kailh-choc-low-profile-switches-v1
+3,Main,Choc MBK blank keycaps 1u (pack of 10),1,4.25,4.25,https://splitkb.com/products/blank-mbk-choc-low-profile-keycaps
+4,Main,1N4148W diode SOD-123,9,0.02,0.18,https://www.lcsc.com/product-detail/C83528.html
+5,Main,SK6812 MINI-E LED,5,0.05,0.25,https://www.lcsc.com/product-detail/C5149201.html
+6,Main,EC11 rotary encoder + knob,1,2.98,2.98,https://keeb.io/collections/foldkb/products/rotary-encoder-ec11
+7,Main,2.42in OLED SSD1309 128x64 (Waveshare),1,12.99,12.99,https://www.waveshare.com/product/2.42inch-oled-module.htm
+8,Power,"LiPo 3.7V 500mAh protected, JST-PH plug",1,7.95,7.95,https://adafruit.com/products/1578
+9,Power,SMD slide switch (PCM12 type),1,0.15,0.15,https://www.lcsc.com/search?q=PCM12
+10,Passives,Capacitor 100nF 0805,5,0.01,0.05,https://www.lcsc.com/search?q=100nF%200805
+11,Passives,Capacitor 10uF 0805,1,0.03,0.03,https://www.lcsc.com/search?q=10uF%200805
+12,Passives,Resistor 330 ohm 0805,1,0.01,0.01,https://www.lcsc.com/search?q=330R%200805
+13,Passives,Resistor 4.7k 0805,2,0.01,0.02,https://www.lcsc.com/search?q=4.7k%200805
+14,PCB,Custom PCB (5 pcs) incl. shipping to Qatar,1,20,20,https://jlcpcb.com
+15,Misc,JST-PH SMD socket for battery,1,0.2,0.2,https://www.lcsc.com/search?q=JST%20PH%202pin%20SMD
+16,Misc,Pin header 2.54mm,1,0.1,0.1,https://www.lcsc.com/search?q=pin%20header%202.54mm
+17,Misc,"M2 screws, standoffs, nuts kit",1,3,3,https://www.aliexpress.com/w/wholesale-M2-standoff-screw-kit.html
+18,Misc,Case (3D printed filament or print service),1,3,3,https://qatar.jazp.com/qa-en/arduino
+19,Misc,Kapton tape,1,2,2,https://www.aliexpress.com/w/wholesale-kapton-tape.html
+20,Misc,"Flux, solder, thin wire",1,5,5,https://www.aliexpress.com/w/wholesale-soldering-flux.html
+,,"TOTAL (excl. shipping and duty, except PCB)",,,78.06,
